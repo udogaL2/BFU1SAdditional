@@ -1,0 +1,3 @@
+Самое длинное слово: associative
+Самое короткое слово: a
+a and are as associative by compare comparison complexity container contains function have implemented insertion is keys keyvalue logarithmic maps operations pairs redblack removal search sorted stdmap that the trees unique using usually with 
